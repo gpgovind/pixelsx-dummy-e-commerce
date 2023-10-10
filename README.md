@@ -1,4 +1,4 @@
-# pixelsx-dummy-e-commerce
+# pixelsx-e-commerce
 this project is only for pratice 
 <h1>Privacy Policy</h1>
 <p>Last updated: October 05, 2023</p>
